@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicing Dice(12.04).Plugins", "Dicing Dice(12.04).Plugins.csproj", "{88E7BDBB-C554-F27F-6396-0C4A3A2C28F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicing Dice(12.04)", "Dicing Dice(12.04).csproj", "{8AB4E9B7-28DC-824F-579C-6652C48F353E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicing Dice(12.04).Editor.Plugins", "Dicing Dice(12.04).Editor.Plugins.csproj", "{DF05D453-65D1-88F1-7541-1B14F2F821B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicing Dice(12.04).Editor", "Dicing Dice(12.04).Editor.csproj", "{70328453-189B-80B1-1CE7-5E04F7832B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E7BDBB-C554-F27F-6396-0C4A3A2C28F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E7BDBB-C554-F27F-6396-0C4A3A2C28F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E7BDBB-C554-F27F-6396-0C4A3A2C28F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E7BDBB-C554-F27F-6396-0C4A3A2C28F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB4E9B7-28DC-824F-579C-6652C48F353E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB4E9B7-28DC-824F-579C-6652C48F353E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB4E9B7-28DC-824F-579C-6652C48F353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB4E9B7-28DC-824F-579C-6652C48F353E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF05D453-65D1-88F1-7541-1B14F2F821B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF05D453-65D1-88F1-7541-1B14F2F821B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF05D453-65D1-88F1-7541-1B14F2F821B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF05D453-65D1-88F1-7541-1B14F2F821B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70328453-189B-80B1-1CE7-5E04F7832B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70328453-189B-80B1-1CE7-5E04F7832B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70328453-189B-80B1-1CE7-5E04F7832B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70328453-189B-80B1-1CE7-5E04F7832B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

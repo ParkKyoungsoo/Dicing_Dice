@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/All I Wanna Do (K) (Feat. Hoody, Loco)-EVERYTHING YOU WANTED-128.unity
+  isLoaded: 1
+  isActive: 1
